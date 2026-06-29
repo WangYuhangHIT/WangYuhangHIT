@@ -32,13 +32,6 @@ I'm a **Data Scientist** at heart and an **AI generalist** by practice — I mov
 - **loopscore** — Local, zero-dependency monitoring & evaluation for AI agents: a live dashboard combining deterministic engineering metrics with **LLM-judged scoring**. Built to measure how AI agents actually perform, not just whether they run.
 - **elifeAgent** — A full-stack ERP platform with multi-source data sync and an **embedded LLM agent** featuring system-level permission isolation, human-in-the-loop approval, and full audit trails.
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WangYuhangHIT&show_icons=true&theme=default&hide_border=true" height="165" alt="Yuhang's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WangYuhangHIT&layout=compact&theme=default&hide_border=true" height="165" alt="Top languages" />
-</p>
-
 ### 📫 Get in touch
 
 - 💡 Interested in data science, applied AI, and agent evaluation — always happy to swap ideas or collaborate
