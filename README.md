@@ -30,14 +30,5 @@ I'm a **Data Scientist** at heart and an **AI generalist** by practice — I mov
 ### 🛠️ Things I've built
 
 - **loopscore** — Local, zero-dependency monitoring & evaluation for AI agents: a live dashboard combining deterministic engineering metrics with **LLM-judged scoring**. Built to measure how AI agents actually perform, not just whether they run.
-- **elifeAgent** — A full-stack ERP platform with multi-source data sync and an **embedded LLM agent** featuring system-level permission isolation, human-in-the-loop approval, and full audit trails.
-
-### 📫 Get in touch
-
-- 💡 Interested in data science, applied AI, and agent evaluation — always happy to swap ideas or collaborate
-<!-- 在下面补上你的联系方式 / 个人网站，例如: -->
-<!-- - 🌐 Website: https://your-site.com -->
-<!-- - 📧 Email: your-email@example.com -->
-<!-- - 💬 LinkedIn: https://linkedin.com/in/your-handle -->
 
 <p align="center"><i>Thanks for stopping by! ⭐️</i></p>
